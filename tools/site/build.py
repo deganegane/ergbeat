@@ -15,7 +15,7 @@ from jinja2 import Environment, FileSystemLoader, StrictUndefined
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent.parent
-BASE = "https://deganegane.github.io/ergbeat/"
+BASE = "https://ergbeat.com/"
 TESTER_URL = "https://play.google.com/apps/testing/com.kriative.ergbeat"
 EMAIL = "jaan.dsgn@gmail.com"
 
