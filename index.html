@@ -9,8 +9,6 @@
 <meta name="theme-color" content="#121316">
 <link rel="icon" href="assets/img/icon-square.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icon.png">
-<link rel="alternate" hreflang="en" href="https://deganegane.github.io/ergbeat/">
-<link rel="alternate" hreflang="hr" href="https://deganegane.github.io/ergbeat/hr/">
 <style>
 @font-face{font-family:"Space Grotesk";src:url(assets/fonts/space-grotesk-regular.woff2) format("woff2");font-weight:400;font-display:swap}
 @font-face{font-family:"Space Grotesk";src:url(assets/fonts/space-grotesk-medium.woff2) format("woff2");font-weight:500;font-display:swap}
@@ -68,7 +66,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .lang{display:flex;gap:2px;border:1px solid var(--line);border-radius:999px;padding:3px;font-size:13px;font-weight:500}
 .lang a,.lang span{padding:4px 10px;border-radius:999px;text-decoration:none;color:var(--muted)}
 .lang span{background:var(--surface-2);color:var(--fg)}
-@media (max-width:760px){.top nav{display:none}.lang{margin-left:auto}}
+@media (max-width:760px){.top nav{display:none}}
 
 /* Buttons */
 .btn{display:inline-flex;align-items:center;gap:10px;min-height:52px;padding:0 24px;border-radius:999px;font:700 16px var(--font);text-decoration:none;border:0;cursor:pointer}
@@ -250,7 +248,7 @@ footer a{color:var(--fg)}
       <a href="#pro">Free &amp; Pro</a>
       <a href="#faq">FAQ</a>
     </nav>
-    <div class="lang" aria-label="Language"><span aria-current="page">EN</span><a href="hr/" hreflang="hr" lang="hr">HR</a></div>
+    <!-- HR switch returns when /hr/ exists -->
   </div>
 </header>
 
