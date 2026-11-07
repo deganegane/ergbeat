@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ErgBeat for Garmin – install</title>
+<meta name="description" content="Install the ErgBeat watch app on your Garmin: one file per watch, copied over USB.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="/icon.png">
+<style>
+:root{--bg:#f4f5f2;--fg:#15171a;--muted:#55595e;--card:#ffffff;--line:#dde0da;--accent:#557a00;--volt:#c6f432}
+@media (prefers-color-scheme:dark){:root{--bg:#111315;--fg:#eceee9;--muted:#a3a7a0;--card:#1a1d20;--line:#2b2f33;--accent:#c6f432}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:760px;margin:0 auto;padding:32px 16px 64px}
+header{display:flex;align-items:center;gap:14px;margin-bottom:28px}
+header img{width:56px;height:56px;border-radius:14px}
+header a{color:inherit;text-decoration:none;font-weight:700;font-size:22px;letter-spacing:.2px}
+nav{display:flex;gap:16px;margin:0 0 20px;flex-wrap:wrap}
+a{color:var(--accent)}
+h1{font-size:28px;line-height:1.25;margin:8px 0 4px}
+h2{font-size:20px;margin:32px 0 4px}
+p{margin:12px 0}
+ol{padding-left:22px}
+li{margin:6px 0}
+code{font:15px ui-monospace,"SF Mono",Consolas,monospace;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:1px 6px}
+hr{border:0;border-top:1px solid var(--line);margin:40px 0}
+.watches{list-style:none;padding:0;margin:16px 0;display:grid;gap:8px}
+.watches a{display:flex;justify-content:space-between;align-items:center;gap:12px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 16px;text-decoration:none;color:var(--fg)}
+.watches a:hover{border-color:var(--accent)}
+.watches span{color:var(--accent);font-weight:600;white-space:nowrap}
+.note{color:var(--muted);font-size:15px}
+footer{margin-top:40px;color:var(--muted);font-size:14px}
+</style>
+</head>
+<body><main>
+<header><img src="/icon.png" alt=""><a href="/">ErgBeat</a></header>
+<nav><a href="#en">English</a><a href="#hr">Hrvatski</a></nav>
+
+<section id="en" lang="en">
+<h1>ErgBeat for Garmin</h1>
+<p>The watch shows your workout and records it to Garmin Connect, with the numbers from your rower, heart rate from your wrist and a lap for every interval. It works together with the ErgBeat app on your Android phone.</p>
+<p>ErgBeat isn't in the Connect IQ store yet (it will be once the phone app is on Google Play), so for now you install it by hand. It takes two minutes.</p>
+
+<h2>1. Download the file for your watch</h2>
+<ul class="watches">
+<li><a href="/garmin/ErgBeat-fr265.prg" download>Forerunner 265 <span>Download</span></a></li>
+<li><a href="/garmin/ErgBeat-fr965.prg" download>Forerunner 965 <span>Download</span></a></li>
+<li><a href="/garmin/ErgBeat-fenix8.prg" download>fēnix 8, 47 mm (AMOLED) <span>Download</span></a></li>
+<li><a href="/garmin/ErgBeat-fenix8pro.prg" download>fēnix 8 Pro, 47 mm <span>Download</span></a></li>
+</ul>
+<p class="note">Your watch isn't listed? Write to <a href="mailto:jaan.dsgn@gmail.com">jaan.dsgn@gmail.com</a> and tell me which one you have.</p>
+
+<h2>2. Copy it to the watch</h2>
+<ol>
+<li>Connect the watch to a computer with its USB cable.</li>
+<li>Open the watch like a USB drive. On Windows it shows up in File Explorer. On a Mac you need a free tool such as <a href="https://openmtp.ganeshrvel.com/">OpenMTP</a>, because Garmin watches don't show up in Finder.</li>
+<li>Copy the file into the <code>GARMIN/APPS</code> folder and unplug the watch.</li>
+</ol>
+
+<h2>3. Connect it to the phone</h2>
+<ol>
+<li>You need Garmin Connect and the ErgBeat app on the same Android phone, with the watch paired in Garmin Connect.</li>
+<li>In ErgBeat: Settings → Garmin watch app → turn on <strong>ErgBeat on your Garmin</strong>.</li>
+<li>Open ErgBeat on the watch before you start rowing, then start the workout on the phone.</li>
+</ol>
+
+<h2>If something goes wrong</h2>
+<p>If the watch shows an <strong>IQ!</strong> icon, the watch app crashed. Connect the watch to the computer and send me the file <code>GARMIN/APPS/LOGS/CIQ_LOG.YML</code>: it shows exactly where it happened.</p>
+<p class="note">An app installed this way doesn't update itself. When a new version is out, download the file again and replace the old one.</p>
+</section>
+
+<hr>
+
+<section id="hr" lang="hr">
+<h1>ErgBeat za Garmin</h1>
+<p>Sat prikazuje trening i snima ga u Garmin Connect, s brojkama s veslača, pulsom sa zapešća i krugom za svaki interval. Radi zajedno s aplikacijom ErgBeat na Android mobitelu.</p>
+<p>ErgBeat još nije u Connect IQ trgovini (bit će kad aplikacija za mobitel izađe na Google Play), pa se zasad instalira ručno. Traje dvije minute.</p>
+
+<h2>1. Preuzmi datoteku za svoj sat</h2>
+<p>Popis satova je gore, u engleskom dijelu: dodirni svoj sat i datoteka se preuzme.</p>
+
+<h2>2. Kopiraj je na sat</h2>
+<ol>
+<li>Spoji sat na računalo USB kabelom.</li>
+<li>Otvori sat kao USB disk. Na Windowsima se vidi u File Exploreru. Na Macu treba besplatan alat poput <a href="https://openmtp.ganeshrvel.com/">OpenMTP</a>, jer se Garmin satovi ne vide u Finderu.</li>
+<li>Kopiraj datoteku u mapu <code>GARMIN/APPS</code> i odspoji sat.</li>
+</ol>
+
+<h2>3. Poveži ga s mobitelom</h2>
+<ol>
+<li>Na istom Android mobitelu trebaju biti Garmin Connect i ErgBeat, a sat uparen u Garmin Connectu.</li>
+<li>U ErgBeatu: Postavke → Aplikacija za Garmin sat → uključi <strong>ErgBeat na Garmin satu</strong>.</li>
+<li>Otvori ErgBeat na satu prije nego kreneš veslati, pa pokreni trening na mobitelu.</li>
+</ol>
+
+<h2>Ako nešto ne radi</h2>
+<p>Ako sat pokaže ikonu <strong>IQ!</strong>, aplikacija na satu se srušila. Spoji sat na računalo i pošalji mi datoteku <code>GARMIN/APPS/LOGS/CIQ_LOG.YML</code> na <a href="mailto:jaan.dsgn@gmail.com">jaan.dsgn@gmail.com</a>: iz nje se vidi gdje je točno puklo.</p>
+<p class="note">Ovako instalirana aplikacija ne ažurira se sama. Kad izađe nova verzija, preuzmi datoteku ponovno i zamijeni staru.</p>
+</section>
+
+<footer>ErgBeat is an independent app and is not affiliated with Garmin. · <a href="/privacy">Privacy</a></footer>
+</main></body>
+</html>
