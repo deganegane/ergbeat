@@ -40,8 +40,9 @@ IMAGES = {
            "trio": ["workouts-hr.webp", "program-hr.webp", "editor-hr.webp"]},
 }
 
-# The privacy policy has English and Croatian versions on one page.
-PRIVACY = {"hr": "privacy.html#hr"}
+# The privacy policy is one page with a section per language (privacy.html#de …); its text comes
+# from PRIVACY.md in deganegane/echo-erg (tools/site/build.py there writes privacy.html).
+PRIVACY = {l: f"privacy.html#{l}" for l in ("hr", "de", "es", "fr", "it", "pt", "pl", "nl")}
 
 
 def main():
