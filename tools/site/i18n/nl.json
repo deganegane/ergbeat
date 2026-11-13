@@ -10,9 +10,9 @@
   "hero_label": "Android-app voor roeimachines",
   "hero_h1": "Je roeimachine, met een <em>coach op het scherm.</em>",
   "hero_lede": "Verbind via Bluetooth, kies een training en roei op een pacer die je van de andere kant van de kamer kunt volgen. Tempozones uit je 2k, gesproken aanwijzingen en je beste sessie die als ghost naast je roeit.",
-  "cta_tester": "Word tester",
+  "cta_play": "Ontdek het op Google Play",
   "cta_how": "Zo werkt het",
-  "tester_note": "<b>ErgBeat zit in een gesloten test op Google Play.</b> Doe mee, roei een paar keer en laat weten wat je ervan vindt. Android 8.0 of nieuwer, gratis met optioneel Pro.",
+  "play_note": "<b>ErgBeat staat op Google Play.</b> Android 8.0 of nieuwer, gratis met optioneel Pro.",
   "alt_live": "Trainingsscherm van ErgBeat: interval 3 van een 5 × 1000 m, nog 387 meter, in de zone, 36 meter voor op de ghost.",
   "pacer_aria": "De boogpacer op 26 slagen per minuut: een bolletje gaat snel door de haal en langzaam terug in de recover.",
   "spm": "SPM",
@@ -115,7 +115,7 @@
     ["Welke talen?", "Engels, Kroatisch, Duits, Spaans, Frans, Italiaans, Portugees, Pools en Nederlands."],
     ["Ik heb een bug gevonden of een idee.", "Gebruik <i>Feedback sturen</i> in de app of mail naar <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
-  "closing_h2": "Help ErgBeat vorm te geven voor de lancering.",
+  "closing_h2": "Je volgende training begint hier.",
   "made_in": "Gemaakt in Kroatië",
   "privacy_short": "Privacy",
   "legal": "ErgBeat is een onafhankelijke app en is niet verbonden aan Rogue Fitness, Concept2 of Garmin. Google Play en het Google Play-logo zijn handelsmerken van Google LLC."

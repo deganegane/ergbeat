@@ -10,9 +10,9 @@
   "hero_label": "App Android pour rameurs",
   "hero_h1": "Ton rameur, avec un <em>coach à l'écran.</em>",
   "hero_lede": "Connecte-toi en Bluetooth, choisis une séance et rame au rythme d'un pacer visible depuis l'autre bout de la pièce. Des zones d'allure tirées de ton 2k, des annonces vocales et ta meilleure séance qui rame à côté de toi comme un fantôme.",
-  "cta_tester": "Devenir testeur",
+  "cta_play": "Disponible sur Google Play",
   "cta_how": "Comment ça marche",
-  "tester_note": "<b>ErgBeat est en test fermé sur Google Play.</b> Rejoins-nous, rame quelques séances et dis-nous ce que tu en penses. Android 8.0 ou plus récent, gratuit avec Pro en option.",
+  "play_note": "<b>ErgBeat est disponible sur Google Play.</b> Android 8.0 ou plus récent, gratuit avec Pro en option.",
   "alt_live": "Écran de séance ErgBeat : intervalle 3 d'une séance 5 × 1000 m, encore 387 mètres, en zone, 36 mètres devant le fantôme.",
   "pacer_aria": "Le pacer en arc à 26 coups par minute : une bille traverse vite le tirage et revient lentement pendant le retour.",
   "spm": "SPM",
@@ -115,7 +115,7 @@
     ["Quelles langues ?", "Anglais, croate, allemand, espagnol, français, italien, portugais, polonais et néerlandais."],
     ["J'ai trouvé un bug ou j'ai une idée.", "Utilise <i>Envoyer un avis</i> dans l'app ou écris à <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
-  "closing_h2": "Aide à façonner ErgBeat avant sa sortie.",
+  "closing_h2": "Ta prochaine séance commence ici.",
   "made_in": "Fait en Croatie",
   "privacy_short": "Confidentialité",
   "legal": "ErgBeat est une app indépendante, sans lien avec Rogue Fitness, Concept2 ou Garmin. Google Play et le logo Google Play sont des marques de Google LLC."

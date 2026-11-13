@@ -10,9 +10,9 @@
   "hero_label": "Android-App für Rudergeräte",
   "hero_h1": "Dein Rudergerät, mit einem <em>Coach auf dem Bildschirm.</em>",
   "hero_lede": "Per Bluetooth verbinden, Workout wählen und nach einem Pacer rudern, den du quer durch den Raum erkennst. Tempozonen aus deinen 2k, Sprachansagen und deine beste Einheit als Geisterboot neben dir.",
-  "cta_tester": "Tester werden",
+  "cta_play": "Jetzt bei Google Play",
   "cta_how": "So funktioniert's",
-  "tester_note": "<b>ErgBeat ist im geschlossenen Test auf Google Play.</b> Mach mit, rudere ein paar Einheiten und sag uns, was du denkst. Android 8.0 oder neuer, kostenlos, Pro optional.",
+  "play_note": "<b>ErgBeat ist jetzt bei Google Play.</b> Android 8.0 oder neuer, kostenlos, Pro optional.",
   "alt_live": "ErgBeat-Trainingsbildschirm: Intervall 3 eines 5 × 1000 m Workouts, noch 387 Meter, in der Zone, 36 Meter vor dem Geisterboot.",
   "pacer_aria": "Der Bogen-Pacer bei 26 Schlägen pro Minute: Eine Kugel läuft schnell durch den Durchzug und langsam zurück beim Vorrollen.",
   "spm": "SPM",
@@ -115,7 +115,7 @@
     ["Welche Sprachen?", "Englisch, Kroatisch, Deutsch, Spanisch, Französisch, Italienisch, Portugiesisch, Polnisch und Niederländisch."],
     ["Ich habe einen Fehler gefunden oder eine Idee.", "Nutze <i>Feedback senden</i> in der App oder schreib an <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
-  "closing_h2": "Gestalte ErgBeat vor dem Start mit.",
+  "closing_h2": "Deine nächste Einheit beginnt hier.",
   "made_in": "Gemacht in Kroatien",
   "privacy_short": "Datenschutz",
   "legal": "ErgBeat ist eine unabhängige App und steht in keiner Verbindung zu Rogue Fitness, Concept2 oder Garmin. Google Play und das Google Play-Logo sind Marken von Google LLC."

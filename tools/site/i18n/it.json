@@ -10,9 +10,9 @@
   "hero_label": "App Android per vogatori",
   "hero_h1": "Il tuo vogatore, con un <em>coach sullo schermo.</em>",
   "hero_lede": "Collegati via Bluetooth, scegli un allenamento e voga seguendo un pacer che vedi dall'altra parte della stanza. Zone di passo dal tuo 2k, indicazioni vocali e la tua sessione migliore che voga accanto a te come un fantasma.",
-  "cta_tester": "Diventa tester",
+  "cta_play": "Disponibile su Google Play",
   "cta_how": "Come funziona",
-  "tester_note": "<b>ErgBeat è in test chiuso su Google Play.</b> Unisciti, fai qualche sessione e dicci cosa ne pensi. Android 8.0 o superiore, gratis con Pro facoltativo.",
+  "play_note": "<b>ErgBeat è disponibile su Google Play.</b> Android 8.0 o superiore, gratis con Pro facoltativo.",
   "alt_live": "Schermata di allenamento di ErgBeat: intervallo 3 di un 5 × 1000 m, mancano 387 metri, in zona, 36 metri davanti al fantasma.",
   "pacer_aria": "Il pacer ad arco a 26 colpi al minuto: una pallina attraversa veloce la passata e torna lenta nella ripresa.",
   "spm": "SPM",
@@ -115,7 +115,7 @@
     ["In quali lingue?", "Inglese, croato, tedesco, spagnolo, francese, italiano, portoghese, polacco e olandese."],
     ["Ho trovato un bug o ho un'idea.", "Usa <i>Invia feedback</i> nell'app o scrivi a <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
-  "closing_h2": "Aiutaci a dare forma a ErgBeat prima del lancio.",
+  "closing_h2": "La tua prossima sessione inizia qui.",
   "made_in": "Fatto in Croazia",
   "privacy_short": "Privacy",
   "legal": "ErgBeat è un'app indipendente e non è affiliata a Rogue Fitness, Concept2 o Garmin. Google Play e il logo Google Play sono marchi di Google LLC."

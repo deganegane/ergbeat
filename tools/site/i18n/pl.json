@@ -10,9 +10,9 @@
   "hero_label": "Aplikacja na Androida do ergometrów wioślarskich",
   "hero_h1": "Twój ergometr, z <em>trenerem na ekranie.</em>",
   "hero_lede": "Połącz się przez Bluetooth, wybierz trening i wiosłuj za pacerem, którego widzisz z drugiego końca pokoju. Strefy tempa z twojego 2k, komunikaty głosowe i twój najlepszy trening płynący obok jako duch.",
-  "cta_tester": "Zostań testerem",
+  "cta_play": "Pobierz z Google Play",
   "cta_how": "Jak to działa",
-  "tester_note": "<b>ErgBeat jest w zamkniętych testach w Google Play.</b> Dołącz, powiosłuj kilka razy i powiedz nam, co myślisz. Android 8.0 lub nowszy, za darmo, Pro opcjonalnie.",
+  "play_note": "<b>ErgBeat jest już w Google Play.</b> Android 8.0 lub nowszy, za darmo, Pro opcjonalnie.",
   "alt_live": "Ekran treningu ErgBeat: interwał 3 treningu 5 × 1000 m, zostało 387 metrów, w strefie, 36 metrów przed duchem.",
   "pacer_aria": "Pacer w kształcie łuku przy 26 ruchach na minutę: kulka szybko przechodzi przez przeciągnięcie i powoli wraca w powrocie.",
   "spm": "SPM",
@@ -115,7 +115,7 @@
     ["Jakie języki?", "Angielski, chorwacki, niemiecki, hiszpański, francuski, włoski, portugalski, polski i niderlandzki."],
     ["Znalazłem błąd albo mam pomysł.", "Użyj <i>Wyślij opinię</i> w aplikacji lub napisz na <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
-  "closing_h2": "Pomóż kształtować ErgBeat przed premierą.",
+  "closing_h2": "Twój kolejny trening zaczyna się tutaj.",
   "made_in": "Zrobione w Chorwacji",
   "privacy_short": "Prywatność",
   "legal": "ErgBeat to niezależna aplikacja, niepowiązana z Rogue Fitness, Concept2 ani Garmin. Google Play i logo Google Play są znakami towarowymi Google LLC."

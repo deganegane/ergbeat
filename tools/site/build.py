@@ -16,7 +16,7 @@ from jinja2 import Environment, FileSystemLoader, StrictUndefined
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent.parent
 BASE = "https://ergbeat.com/"
-TESTER_URL = "https://play.google.com/apps/testing/com.kriative.ergbeat"
+PLAY_URL = "https://play.google.com/store/apps/details?id=com.kriative.ergbeat"
 EMAIL = "jaan.dsgn@gmail.com"
 
 # Same order as the language list in the app. "path" is relative to the site root.
@@ -61,7 +61,7 @@ def main():
             img=IMAGES.get(lang["code"], IMAGES["en"]),
             og_image="og-hr.png" if lang["code"] == "hr" else "og-en.png",
             privacy_href=PRIVACY.get(lang["code"], "privacy.html"),
-            tester_url=TESTER_URL, email=EMAIL,
+            play_url=PLAY_URL, email=EMAIL,
         )
         out = ROOT / lang["path"] / "index.html"
         out.parent.mkdir(parents=True, exist_ok=True)

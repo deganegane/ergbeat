@@ -10,9 +10,9 @@
   "hero_label": "App Android para remoergómetros",
   "hero_h1": "Tu remoergómetro, con un <em>entrenador en la pantalla.</em>",
   "hero_lede": "Conéctate por Bluetooth, elige un entrenamiento y rema siguiendo un marcador que ves desde el otro lado de la sala. Zonas de ritmo a partir de tu 2k, indicaciones de voz y tu mejor sesión remando a tu lado como un fantasma.",
-  "cta_tester": "Hazte tester",
+  "cta_play": "Disponible en Google Play",
   "cta_how": "Cómo funciona",
-  "tester_note": "<b>ErgBeat está en prueba cerrada en Google Play.</b> Únete, rema unas cuantas veces y cuéntanos qué te parece. Android 8.0 o superior, gratis con Pro opcional.",
+  "play_note": "<b>ErgBeat ya está en Google Play.</b> Android 8.0 o superior, gratis con Pro opcional.",
   "alt_live": "Pantalla de entrenamiento de ErgBeat: intervalo 3 de un 5 × 1000 m, faltan 387 metros, en zona, 36 metros por delante del fantasma.",
   "pacer_aria": "El marcador en arco a 26 paladas por minuto: una bola recorre rápido la pasada y vuelve despacio en la recuperación.",
   "spm": "SPM",
@@ -115,7 +115,7 @@
     ["¿En qué idiomas está?", "Inglés, croata, alemán, español, francés, italiano, portugués, polaco y neerlandés."],
     ["He encontrado un error o tengo una idea.", "Usa <i>Enviar comentarios</i> en la app o escribe a <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
-  "closing_h2": "Ayuda a dar forma a ErgBeat antes del lanzamiento.",
+  "closing_h2": "Tu próximo entreno empieza aquí.",
   "made_in": "Hecho en Croacia",
   "privacy_short": "Privacidad",
   "legal": "ErgBeat es una app independiente y no está afiliada a Rogue Fitness, Concept2 ni Garmin. Google Play y el logotipo de Google Play son marcas de Google LLC."

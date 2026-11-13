@@ -10,9 +10,9 @@
   "hero_label": "Android app for rowing machines",
   "hero_h1": "Your rowing machine, with a <em>coach on the screen.</em>",
   "hero_lede": "Connect over Bluetooth, pick a workout and row to a pacer you can follow from across the room. Pace zones from your 2k, voice cues, and your best session racing alongside as a ghost.",
-  "cta_tester": "Become a tester",
+  "cta_play": "Get it on Google Play",
   "cta_how": "How it works",
-  "tester_note": "<b>ErgBeat is in closed testing on Google Play.</b> Join, row a few times and tell us what you think. Android 8.0 or newer, free with optional Pro.",
+  "play_note": "<b>ErgBeat is out on Google Play.</b> Android 8.0 or newer, free with optional Pro.",
   "alt_live": "ErgBeat workout screen: interval 3 of a 5 × 1000 m workout, 387 metres to go, in zone, 36 metres ahead of the ghost.",
   "pacer_aria": "The arc pacer at 26 strokes per minute: a bead swings through the drive and returns slowly on the recovery.",
   "spm": "SPM",
@@ -115,7 +115,7 @@
     ["Which languages?", "English, Croatian, German, Spanish, French, Italian, Portuguese, Polish and Dutch."],
     ["I found a bug or I have an idea.", "Use <i>Send feedback</i> in the app or write to <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
-  "closing_h2": "Help shape ErgBeat before it launches.",
+  "closing_h2": "Your next row starts here.",
   "made_in": "Made in Croatia",
   "privacy_short": "Privacy policy",
   "legal": "ErgBeat is an independent app and is not affiliated with Rogue Fitness, Concept2 or Garmin. Google Play and the Google Play logo are trademarks of Google LLC."
