@@ -77,7 +77,7 @@
     ["Bluetooth FTMS", "Ergometry z FTMS", "Na przykład Rogue Echo Rower. Obsługuje go większość nowszych ergometrów Bluetooth."],
     ["Concept2", "Concept2 PM5", "Z długością przeciągnięcia, siłą szczytową i krzywą siły każdego ruchu."],
     ["Tętno", "Pas lub zegarek", "Pas piersiowy albo zegarek, który nadaje tętno."],
-    ["Eksport", "Twoje inne aplikacje", "Health Connect. FIT i CSV dla Garmin Connect, Strava i intervals.icu (Pro)."]
+    ["Eksport", "Twoje inne aplikacje", "Health Connect. FIT i CSV dla Garmin Connect, Strava i intervals.icu."]
   ],
   "privacy_label": "Prywatność od podstaw",
   "privacy_h2": "Twoje treningi zostają na twoim telefonie.",
@@ -92,13 +92,13 @@
   "no": "Brak",
   "table": [
     ["Połączenie z ergometrem i pulsometrem, ekran treningu, pacer, komunikaty głosowe", "y", "y"],
-    ["Treningi", "4 i wolne wiosłowanie<small>20 min ciągle, 10 × 1 min, 4 × 500 m, test 2k</small>", "Wszystkie 21"],
+    ["Treningi", "5 i wolne wiosłowanie<small>20 min ciągle, 10 × 1 min, 4 × 500 m, AMRAP 20, test 2k</small>", "Wszystkie 21"],
     ["Programy", "n", "4"],
     ["Edytor treningów i generator interwałów", "n", "y"],
     ["Historia, cel tygodniowy, przypomnienia, Health Connect, zegarek Garmin", "y", "y"],
     ["Duch, rekordy osobiste, wykresy postępów, szacowany wynik na 2k", "n", "y"],
     ["Trening mocy (FTP, strefy mocy)", "n", "y"],
-    ["Eksport FIT i CSV", "n", "y"],
+    ["Eksport FIT i CSV", "y", "y"],
     ["Wybór kart na ekranie treningu", "n", "y"]
   ],
   "price_from": "",
@@ -110,7 +110,7 @@
     ["Czy działa z moim ergometrem?", "Jeśli twój ergometr lub jego monitor obsługuje Bluetooth FTMS (robi to większość nowszych ergometrów Bluetooth), tak. Concept2 PM5 jest obsługiwany bezpośrednio. Nie masz pewności? Zainstaluj aplikację i dotknij przycisku Ergometr: ErgBeat pokaże, co znajdzie, a ergometr demo pozwala wypróbować wszystko bez sprzętu."],
     ["Czy potrzebuję konta?", "Nie. Nie ma konta ani logowania."],
     ["Gdzie są moje dane?", "Na twoim telefonie. Możesz zapisać kopię do wybranego pliku (np. na Dysku Google) i eksportować treningi jako FIT lub CSV."],
-    ["Czy działa ze Stravą lub Garmin Connect?", "Tak. Aplikacja na zegarek Garmin zapisuje bezpośrednio w Garmin Connect, a Pro eksportuje pliki FIT do Stravy, Garmin Connect i intervals.icu."],
+    ["Czy działa ze Stravą lub Garmin Connect?", "Tak. Aplikacja na zegarek Garmin zapisuje bezpośrednio w Garmin Connect, a ErgBeat eksportuje pliki FIT do Stravy, Garmin Connect i intervals.icu."],
     ["Czy działa z wyłączonym ekranem?", "Tak. Trening trwa dalej z wyłączonym ekranem, z powiadomieniem na ekranie blokady."],
     ["Jakie języki?", "Angielski, chorwacki, niemiecki, hiszpański, francuski, włoski, portugalski, polski i niderlandzki."],
     ["Znalazłem błąd albo mam pomysł.", "Użyj <i>Wyślij opinię</i> w aplikacji lub napisz na <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]

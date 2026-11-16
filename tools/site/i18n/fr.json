@@ -77,7 +77,7 @@
     ["Bluetooth FTMS", "Rameurs FTMS", "Comme le Rogue Echo Rower. La plupart des rameurs Bluetooth récents le prennent en charge."],
     ["Concept2", "Concept2 PM5", "Avec la longueur de tirage, la force maximale et la courbe de force de chaque coup."],
     ["Fréquence cardiaque", "Ceinture ou montre", "Une ceinture cardio ou une montre qui diffuse la fréquence cardiaque."],
-    ["Export", "Tes autres apps", "Health Connect. FIT et CSV pour Garmin Connect, Strava et intervals.icu (Pro)."]
+    ["Export", "Tes autres apps", "Health Connect. FIT et CSV pour Garmin Connect, Strava et intervals.icu."]
   ],
   "privacy_label": "Privée dès la conception",
   "privacy_h2": "Tes séances restent sur ton téléphone.",
@@ -92,13 +92,13 @@
   "no": "Non inclus",
   "table": [
     ["Connexion du rameur et du cardio, écran de séance, pacer, annonces vocales", "y", "y"],
-    ["Séances", "4 et séance libre<small>20 min endurance, 10 × 1 min, 4 × 500 m, test 2k</small>", "Les 21"],
+    ["Séances", "5 et séance libre<small>20 min endurance, 10 × 1 min, 4 × 500 m, AMRAP 20, test 2k</small>", "Les 21"],
     ["Programmes", "n", "4"],
     ["Éditeur de séances et générateur d'intervalles", "n", "y"],
     ["Historique, objectif hebdomadaire, rappels, Health Connect, montre Garmin", "y", "y"],
     ["Fantôme, records personnels, graphiques de progression, estimation du 2k", "n", "y"],
     ["Entraînement en puissance (FTP, zones de puissance)", "n", "y"],
-    ["Export FIT et CSV", "n", "y"],
+    ["Export FIT et CSV", "y", "y"],
     ["Choisir les cartes de l'écran de séance", "n", "y"]
   ],
   "price_from": "dès 3,99 €",
@@ -110,7 +110,7 @@
     ["Est-ce que ça marche avec mon rameur ?", "Si ton rameur ou son moniteur gère le Bluetooth FTMS (c'est le cas de la plupart des rameurs Bluetooth récents), oui. Le Concept2 PM5 est pris en charge directement. Pas sûr ? Installe l'app et touche le bouton Rameur : ErgBeat affiche ce qu'il trouve, et un rameur de démonstration permet de tout essayer sans machine."],
     ["Faut-il un compte ?", "Non. Il n'y a ni compte ni connexion."],
     ["Où sont mes données ?", "Sur ton téléphone. Tu peux les sauvegarder dans le fichier de ton choix (par exemple sur Google Drive) et exporter tes séances en FIT ou CSV."],
-    ["Ça marche avec Strava ou Garmin Connect ?", "Oui. L'app pour montre Garmin enregistre directement dans Garmin Connect, et Pro exporte des fichiers FIT pour Strava, Garmin Connect et intervals.icu."],
+    ["Ça marche avec Strava ou Garmin Connect ?", "Oui. L'app pour montre Garmin enregistre directement dans Garmin Connect, et ErgBeat exporte des fichiers FIT pour Strava, Garmin Connect et intervals.icu."],
     ["Ça fonctionne écran éteint ?", "Oui. La séance continue écran éteint, avec une notification sur l'écran de verrouillage."],
     ["Quelles langues ?", "Anglais, croate, allemand, espagnol, français, italien, portugais, polonais et néerlandais."],
     ["J'ai trouvé un bug ou j'ai une idée.", "Utilise <i>Envoyer un avis</i> dans l'app ou écris à <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]

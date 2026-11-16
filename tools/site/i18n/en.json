@@ -77,7 +77,7 @@
     ["Bluetooth FTMS", "Rowers with FTMS", "Such as the Rogue Echo Rower. Most recent Bluetooth rowers speak it."],
     ["Concept2", "Concept2 PM5", "With drive length, peak force and the force curve of every stroke."],
     ["Heart rate", "Strap or watch", "A chest strap, or a watch that broadcasts heart rate."],
-    ["Export", "Your other apps", "Health Connect. FIT and CSV for Garmin Connect, Strava and intervals.icu (Pro)."]
+    ["Export", "Your other apps", "Health Connect. FIT and CSV for Garmin Connect, Strava and intervals.icu."]
   ],
   "privacy_label": "Private by design",
   "privacy_h2": "Your workouts stay on your phone.",
@@ -92,13 +92,13 @@
   "no": "Not included",
   "table": [
     ["Rower and heart-rate connection, workout screen, pacer, voice cues", "y", "y"],
-    ["Workouts", "4 and free row<small>20 min steady, 10 × 1 min, 4 × 500 m, 2k test</small>", "All 21"],
+    ["Workouts", "5 and free row<small>20 min steady, 10 × 1 min, 4 × 500 m, AMRAP 20, 2k test</small>", "All 21"],
     ["Programs", "n", "4"],
     ["Workout editor and interval generator", "n", "y"],
     ["History, weekly goal, reminders, Health Connect, Garmin watch", "y", "y"],
     ["Ghost, personal records, progress charts, 2k estimate", "n", "y"],
     ["Power training (FTP, power zones)", "n", "y"],
-    ["FIT and CSV export", "n", "y"],
+    ["FIT and CSV export", "y", "y"],
     ["Choose your workout screen cards", "n", "y"]
   ],
   "price_from": "€3.99",
@@ -110,7 +110,7 @@
     ["Does it work with my rower?", "If your rower or its console speaks Bluetooth FTMS (most recent Bluetooth rowers do), yes. The Concept2 PM5 is supported directly. Not sure? Install it and tap the Rower button: ErgBeat lists what it finds, and there's a demo rower to try everything without a machine."],
     ["Do I need an account?", "No. There's no account and no sign-in."],
     ["Where is my data?", "On your phone. You can back it up to a file you choose (for example on Google Drive) and export sessions as FIT or CSV."],
-    ["Can I use it with Strava or Garmin Connect?", "Yes. The Garmin watch app records straight to Garmin Connect, and Pro exports FIT files for Strava, Garmin Connect and intervals.icu."],
+    ["Can I use it with Strava or Garmin Connect?", "Yes. The Garmin watch app records straight to Garmin Connect, and ErgBeat exports FIT files for Strava, Garmin Connect and intervals.icu."],
     ["Does it work with the screen off?", "Yes. The workout keeps running with the screen off, with a notification on the lock screen."],
     ["Which languages?", "English, Croatian, German, Spanish, French, Italian, Portuguese, Polish and Dutch."],
     ["I found a bug or I have an idea.", "Use <i>Send feedback</i> in the app or write to <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]

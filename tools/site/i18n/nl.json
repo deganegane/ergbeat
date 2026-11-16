@@ -77,7 +77,7 @@
     ["Bluetooth FTMS", "Roeimachines met FTMS", "Zoals de Rogue Echo Rower. De meeste recente Bluetooth-roeimachines ondersteunen het."],
     ["Concept2", "Concept2 PM5", "Met haallengte, piekkracht en de krachtcurve van elke slag."],
     ["Hartslag", "Band of horloge", "Een borstband of een horloge dat je hartslag uitzendt."],
-    ["Export", "Je andere apps", "Health Connect. FIT en CSV voor Garmin Connect, Strava en intervals.icu (Pro)."]
+    ["Export", "Je andere apps", "Health Connect. FIT en CSV voor Garmin Connect, Strava en intervals.icu."]
   ],
   "privacy_label": "Privé vanaf de basis",
   "privacy_h2": "Je trainingen blijven op je telefoon.",
@@ -92,13 +92,13 @@
   "no": "Niet inbegrepen",
   "table": [
     ["Verbinding met roeimachine en hartslag, trainingsscherm, pacer, gesproken aanwijzingen", "y", "y"],
-    ["Trainingen", "4 en vrij roeien<small>20 min duur, 10 × 1 min, 4 × 500 m, 2k-test</small>", "Alle 21"],
+    ["Trainingen", "5 en vrij roeien<small>20 min duur, 10 × 1 min, 4 × 500 m, AMRAP 20, 2k-test</small>", "Alle 21"],
     ["Programma's", "n", "4"],
     ["Trainingseditor en intervalgenerator", "n", "y"],
     ["Geschiedenis, weekdoel, herinneringen, Health Connect, Garmin-horloge", "y", "y"],
     ["Ghost, persoonlijke records, voortgangsgrafieken, 2k-schatting", "n", "y"],
     ["Trainen op vermogen (FTP, vermogenszones)", "n", "y"],
-    ["FIT- en CSV-export", "n", "y"],
+    ["FIT- en CSV-export", "y", "y"],
     ["Kaarten op het trainingsscherm kiezen", "n", "y"]
   ],
   "price_from": "vanaf € 3,99",
@@ -110,7 +110,7 @@
     ["Werkt het met mijn roeimachine?", "Als je roeimachine of de monitor ervan Bluetooth FTMS ondersteunt (de meeste recente Bluetooth-roeimachines doen dat), ja. De Concept2 PM5 wordt direct ondersteund. Twijfel je? Installeer de app en tik op de knop Roeimachine: ErgBeat laat zien wat hij vindt, en met de demo-roeimachine probeer je alles zonder apparaat."],
     ["Heb ik een account nodig?", "Nee. Er is geen account en geen inlog."],
     ["Waar staan mijn gegevens?", "Op je telefoon. Je kunt een back-up maken naar een bestand naar keuze (bijvoorbeeld op Google Drive) en sessies exporteren als FIT of CSV."],
-    ["Werkt het met Strava of Garmin Connect?", "Ja. De Garmin-app legt direct vast in Garmin Connect, en Pro exporteert FIT-bestanden voor Strava, Garmin Connect en intervals.icu."],
+    ["Werkt het met Strava of Garmin Connect?", "Ja. De Garmin-app legt direct vast in Garmin Connect, en ErgBeat exporteert FIT-bestanden voor Strava, Garmin Connect en intervals.icu."],
     ["Werkt het met het scherm uit?", "Ja. De training loopt door met het scherm uit, met een melding op het vergrendelscherm."],
     ["Welke talen?", "Engels, Kroatisch, Duits, Spaans, Frans, Italiaans, Portugees, Pools en Nederlands."],
     ["Ik heb een bug gevonden of een idee.", "Gebruik <i>Feedback sturen</i> in de app of mail naar <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]

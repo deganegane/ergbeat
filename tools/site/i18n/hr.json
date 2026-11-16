@@ -77,7 +77,7 @@
     ["Bluetooth FTMS", "Veslači s FTMS-om", "Poput Rogue Echo Rowera. Podržava ga većina novijih Bluetooth veslača."],
     ["Concept2", "Concept2 PM5", "S duljinom zaveslaja, vršnom silom i krivuljom sile svakog zaveslaja."],
     ["Puls", "Pojas ili sat", "Prsni pojas ili sat koji emitira puls."],
-    ["Izvoz", "Tvoje druge aplikacije", "Health Connect. FIT i CSV za Garmin Connect, Stravu i intervals.icu (Pro)."]
+    ["Izvoz", "Tvoje druge aplikacije", "Health Connect. FIT i CSV za Garmin Connect, Stravu i intervals.icu."]
   ],
   "privacy_label": "Privatnost na prvom mjestu",
   "privacy_h2": "Tvoji treninzi ostaju na tvom mobitelu.",
@@ -92,13 +92,13 @@
   "no": "Nije uključeno",
   "table": [
     ["Spajanje veslača i pulsa, ekran treninga, pacer, glasovne upute", "y", "y"],
-    ["Treninzi", "4 i slobodno veslanje<small>20 min ravnomjerno, 10 × 1 min, 4 × 500 m, 2k test</small>", "Svih 21"],
+    ["Treninzi", "5 i slobodno veslanje<small>20 min ravnomjerno, 10 × 1 min, 4 × 500 m, AMRAP 20, 2k test</small>", "Svih 21"],
     ["Programi", "n", "4"],
     ["Editor treninga i generator intervala", "n", "y"],
     ["Povijest, tjedni cilj, podsjetnici, Health Connect, Garmin sat", "y", "y"],
     ["Duh, osobni rekordi, grafovi napretka, procjena 2k", "n", "y"],
     ["Trening sa snagom (FTP, zone snage)", "n", "y"],
-    ["Izvoz u FIT i CSV", "n", "y"],
+    ["Izvoz u FIT i CSV", "y", "y"],
     ["Odabir kartica na ekranu treninga", "n", "y"]
   ],
   "price_from": "4,99 €",
@@ -110,7 +110,7 @@
     ["Radi li s mojim veslačem?", "Ako tvoj veslač ili njegova konzola podržava Bluetooth FTMS (većina novijih Bluetooth veslača), radi. Concept2 PM5 je podržan izravno. Nisi siguran? Instaliraj aplikaciju i dodirni gumb Veslač: ErgBeat pokaže što pronađe, a tu je i demo veslač da sve isprobaš bez sprave."],
     ["Treba li mi račun?", "Ne. Nema računa ni prijave."],
     ["Gdje su moji podaci?", "Na tvom mobitelu. Možeš ih spremiti kao kopiju u datoteku po izboru (npr. na Google Driveu) i izvesti treninge kao FIT ili CSV."],
-    ["Mogu li ga koristiti sa Stravom ili Garmin Connectom?", "Da. Aplikacija za Garmin sat snima ravno u Garmin Connect, a Pro izvozi FIT datoteke za Stravu, Garmin Connect i intervals.icu."],
+    ["Mogu li ga koristiti sa Stravom ili Garmin Connectom?", "Da. Aplikacija za Garmin sat snima ravno u Garmin Connect, a ErgBeat izvozi FIT datoteke za Stravu, Garmin Connect i intervals.icu."],
     ["Radi li s ugašenim ekranom?", "Da. Trening teče i s ugašenim ekranom, uz obavijest na zaključanom ekranu."],
     ["Na kojim je jezicima?", "Engleski, hrvatski, njemački, španjolski, francuski, talijanski, portugalski, poljski i nizozemski."],
     ["Našao sam grešku ili imam ideju.", "Koristi <i>Pošalji povratnu informaciju</i> u aplikaciji ili piši na <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]

@@ -77,7 +77,7 @@
     ["Bluetooth FTMS", "Rudergeräte mit FTMS", "Zum Beispiel der Rogue Echo Rower. Die meisten neueren Bluetooth-Rudergeräte unterstützen es."],
     ["Concept2", "Concept2 PM5", "Mit Durchzuglänge, Spitzenkraft und der Kraftkurve jedes Schlags."],
     ["Herzfrequenz", "Gurt oder Uhr", "Ein Brustgurt oder eine Uhr, die die Herzfrequenz sendet."],
-    ["Export", "Deine anderen Apps", "Health Connect. FIT und CSV für Garmin Connect, Strava und intervals.icu (Pro)."]
+    ["Export", "Deine anderen Apps", "Health Connect. FIT und CSV für Garmin Connect, Strava und intervals.icu."]
   ],
   "privacy_label": "Privat von Grund auf",
   "privacy_h2": "Deine Workouts bleiben auf deinem Handy.",
@@ -92,13 +92,13 @@
   "no": "Nicht enthalten",
   "table": [
     ["Verbindung zu Rudergerät und Herzfrequenz, Trainingsbildschirm, Pacer, Sprachansagen", "y", "y"],
-    ["Workouts", "4 und freies Rudern<small>20 min locker, 10 × 1 min, 4 × 500 m, 2k-Test</small>", "Alle 21"],
+    ["Workouts", "5 und freies Rudern<small>20 min locker, 10 × 1 min, 4 × 500 m, AMRAP 20, 2k-Test</small>", "Alle 21"],
     ["Programme", "n", "4"],
     ["Workout-Editor und Intervall-Generator", "n", "y"],
     ["Verlauf, Wochenziel, Erinnerungen, Health Connect, Garmin-Uhr", "y", "y"],
     ["Geisterboot, persönliche Rekorde, Fortschrittsdiagramme, 2k-Prognose", "n", "y"],
     ["Training nach Leistung (FTP, Leistungszonen)", "n", "y"],
-    ["FIT- und CSV-Export", "n", "y"],
+    ["FIT- und CSV-Export", "y", "y"],
     ["Karten auf dem Trainingsbildschirm wählen", "n", "y"]
   ],
   "price_from": "ab 3,99 €",
@@ -110,7 +110,7 @@
     ["Funktioniert es mit meinem Rudergerät?", "Wenn dein Rudergerät oder sein Monitor Bluetooth FTMS unterstützt (die meisten neueren Bluetooth-Rudergeräte tun das), ja. Der Concept2 PM5 wird direkt unterstützt. Nicht sicher? Installiere die App und tippe auf Rudergerät: ErgBeat zeigt, was es findet, und mit dem Demo-Rudergerät kannst du alles ohne Gerät ausprobieren."],
     ["Brauche ich ein Konto?", "Nein. Es gibt kein Konto und keine Anmeldung."],
     ["Wo sind meine Daten?", "Auf deinem Handy. Du kannst sie in eine Datei deiner Wahl sichern (zum Beispiel auf Google Drive) und Einheiten als FIT oder CSV exportieren."],
-    ["Geht es mit Strava oder Garmin Connect?", "Ja. Die Garmin-App zeichnet direkt in Garmin Connect auf, und Pro exportiert FIT-Dateien für Strava, Garmin Connect und intervals.icu."],
+    ["Geht es mit Strava oder Garmin Connect?", "Ja. Die Garmin-App zeichnet direkt in Garmin Connect auf, und ErgBeat exportiert FIT-Dateien für Strava, Garmin Connect und intervals.icu."],
     ["Läuft es bei ausgeschaltetem Bildschirm?", "Ja. Das Workout läuft weiter, mit einer Benachrichtigung auf dem Sperrbildschirm."],
     ["Welche Sprachen?", "Englisch, Kroatisch, Deutsch, Spanisch, Französisch, Italienisch, Portugiesisch, Polnisch und Niederländisch."],
     ["Ich habe einen Fehler gefunden oder eine Idee.", "Nutze <i>Feedback senden</i> in der App oder schreib an <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
