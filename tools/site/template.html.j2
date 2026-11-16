@@ -54,7 +54,10 @@
         <a class="btn btn-volt" href="{{ play_url }}">{{ t.cta_play }}</a>
         <a class="btn btn-ghost" href="#how">{{ t.cta_how }}</a>
       </div>
-      <div class="tester"><span class="dot" aria-hidden="true"></span><p>{{ t.play_note }}</p></div>
+      <div class="notes">
+        <div class="tester"><span class="dot" aria-hidden="true"></span><p>{{ t.play_note }}</p></div>
+        <a class="tester tester-link" href="{{ ciq_url }}"><span class="dot" aria-hidden="true"></span><p>{{ t.garmin_note }} <span aria-hidden="true">→</span></p></a>
+      </div>
     </div>
     <div class="hero-visual">
       <div class="phone"><img src="{{ root }}assets/img/{{ img.live }}" width="720" height="1281" alt="{{ t.alt_live }}" fetchpriority="high"></div>
@@ -140,7 +143,7 @@
       <div class="head"><p class="label">Garmin</p><h2>{{ t.garmin_h2 }}</h2>
         <p>{{ t.garmin_p }}</p></div>
       <p class="models">{{ t.garmin_models }}</p>
-      <p><a class="btn btn-ghost" href="{{ ciq_url }}">{{ t.garmin_cta }}</a></p>
+      <p><a class="btn btn-volt" href="{{ ciq_url }}">{{ t.garmin_cta }}</a></p>
     </div>
     <div class="watches">
       <div class="watch"><img src="{{ root }}assets/img/watch-interval.webp" width="360" height="360" alt="{{ t.alt_watch1 }}" loading="lazy"></div>
@@ -200,7 +203,10 @@
 <section class="closing">
   <div class="wrap">
     <h2>{{ t.closing_h2 }}</h2>
-    <a class="btn btn-volt" href="{{ play_url }}">{{ t.cta_play }}</a>
+    <div class="cta">
+      <a class="btn btn-volt" href="{{ play_url }}">{{ t.cta_play }}</a>
+      <a class="btn btn-ghost" href="{{ ciq_url }}">{{ t.cta_garmin }}</a>
+    </div>
   </div>
 </section>
 </main>

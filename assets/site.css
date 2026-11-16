@@ -74,6 +74,10 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .cta-note{font-size:14px;color:var(--muted)}
 .tester{display:flex;gap:12px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px;font-size:15px;color:var(--muted);max-width:32em}
 .tester b{color:var(--fg)}
+.notes{display:flex;flex-direction:column;gap:10px}
+.tester-link{text-decoration:none}
+.tester-link:hover{border-color:var(--volt)}
+.tester-link p{margin:0}
 .dot{flex:none;width:10px;height:10px;margin-top:7px;border-radius:50%;background:var(--zone);box-shadow:0 0 0 4px color-mix(in srgb,var(--zone) 25%,transparent)}
 .hero-visual{position:relative;justify-self:center;width:min(380px,100%);align-self:end}
 
