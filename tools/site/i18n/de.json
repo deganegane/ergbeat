@@ -115,6 +115,7 @@
     ["Wo sind meine Daten?", "Auf deinem Handy. Du kannst sie in eine Datei deiner Wahl sichern (zum Beispiel auf Google Drive) und Einheiten als FIT oder CSV exportieren."],
     ["Geht es mit Strava oder Garmin Connect?", "Ja. Die Garmin-App zeichnet direkt in Garmin Connect auf, und ErgBeat exportiert FIT-Dateien für Strava, Garmin Connect und intervals.icu."],
     ["Läuft es bei ausgeschaltetem Bildschirm?", "Ja. Das Workout läuft weiter, mit einer Benachrichtigung auf dem Sperrbildschirm."],
+    ["Kann ich mir ein Ziel für Dezember setzen, wie für die Holiday Challenge?", "Ja. Unter Fortschritt setzt du ein Ziel für einen Zeitraum: Meter und Daten, zum Beispiel 100 000 m vom 26. November bis 24. Dezember. ErgBeat zeigt, wie viel du noch pro Tag brauchst und ob du vor dem Plan liegst, und du kannst deinen Fortschritt als Bild teilen. Das funktioniert mit jedem Rudergerät. Die Concept2 Holiday Challenge selbst zählt Meter im Concept2 Logbook, die auf Concept2-Geräten gerudert wurden."],
     ["Welche Sprachen?", "Englisch, Kroatisch, Deutsch, Spanisch, Französisch, Italienisch, Portugiesisch, Polnisch und Niederländisch."],
     ["Ich habe einen Fehler gefunden oder eine Idee.", "Nutze <i>Feedback senden</i> in der App oder schreib an <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],

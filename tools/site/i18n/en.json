@@ -115,6 +115,7 @@
     ["Where is my data?", "On your phone. You can back it up to a file you choose (for example on Google Drive) and export sessions as FIT or CSV."],
     ["Can I use it with Strava or Garmin Connect?", "Yes. The Garmin watch app records straight to Garmin Connect, and ErgBeat exports FIT files for Strava, Garmin Connect and intervals.icu."],
     ["Does it work with the screen off?", "Yes. The workout keeps running with the screen off, with a notification on the lock screen."],
+    ["Can I set a goal for December, like the Holiday Challenge?", "Yes. Under Progress, set a goal for a period: metres and dates, for example 100,000 m from 26 November to 24 December. ErgBeat shows how much a day you still need and whether you're ahead of plan, and you can share your progress as an image. It works with any rower. The Concept2 Holiday Challenge itself counts metres in the Concept2 Logbook rowed on Concept2 machines."],
     ["Which languages?", "English, Croatian, German, Spanish, French, Italian, Portuguese, Polish and Dutch."],
     ["I found a bug or I have an idea.", "Use <i>Send feedback</i> in the app or write to <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
