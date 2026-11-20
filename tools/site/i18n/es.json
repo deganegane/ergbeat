@@ -115,6 +115,7 @@
     ["¿Dónde están mis datos?", "En tu móvil. Puedes hacer una copia en el archivo que elijas (por ejemplo en Google Drive) y exportar sesiones en FIT o CSV."],
     ["¿Puedo usarla con Strava o Garmin Connect?", "Sí. La app para Garmin registra directamente en Garmin Connect, y ErgBeat exporta archivos FIT para Strava, Garmin Connect e intervals.icu."],
     ["¿Funciona con la pantalla apagada?", "Sí. El entrenamiento sigue con la pantalla apagada, con una notificación en la pantalla de bloqueo."],
+    ["¿Puedo ponerme un objetivo para diciembre, como el Holiday Challenge?", "Sí. En Progreso, crea un objetivo para un periodo: metros y fechas, por ejemplo 100 000 m del 26 de noviembre al 24 de diciembre. ErgBeat te muestra cuánto te falta al día y si vas por delante del plan, y puedes compartir tu progreso como imagen. Funciona con cualquier remo. El Holiday Challenge de Concept2 cuenta los metros del Concept2 Logbook hechos en máquinas Concept2."],
     ["¿En qué idiomas está?", "Inglés, croata, alemán, español, francés, italiano, portugués, polaco y neerlandés."],
     ["He encontrado un error o tengo una idea.", "Usa <i>Enviar comentarios</i> en la app o escribe a <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],

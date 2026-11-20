@@ -115,6 +115,7 @@
     ["Gdje su moji podaci?", "Na tvom mobitelu. Možeš ih spremiti kao kopiju u datoteku po izboru (npr. na Google Driveu) i izvesti treninge kao FIT ili CSV."],
     ["Mogu li ga koristiti sa Stravom ili Garmin Connectom?", "Da. Aplikacija za Garmin sat snima ravno u Garmin Connect, a ErgBeat izvozi FIT datoteke za Stravu, Garmin Connect i intervals.icu."],
     ["Radi li s ugašenim ekranom?", "Da. Trening teče i s ugašenim ekranom, uz obavijest na zaključanom ekranu."],
+    ["Mogu li postaviti cilj za prosinac, kao za Holiday Challenge?", "Da. U Napretku postavi cilj za razdoblje: metre i datume, npr. 100 000 m od 26. studenoga do 24. prosinca. ErgBeat pokazuje koliko ti još treba dnevno i jesi li ispred plana, a napredak možeš podijeliti kao sliku. Radi sa svakim veslačem. Sam Concept2 Holiday Challenge broji metre u Concept2 Logbooku odveslane na Concept2 spravama."],
     ["Na kojim je jezicima?", "Engleski, hrvatski, njemački, španjolski, francuski, talijanski, portugalski, poljski i nizozemski."],
     ["Našao sam grešku ili imam ideju.", "Koristi <i>Pošalji povratnu informaciju</i> u aplikaciji ili piši na <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],

@@ -115,6 +115,7 @@
     ["Gdzie są moje dane?", "Na twoim telefonie. Możesz zapisać kopię do wybranego pliku (np. na Dysku Google) i eksportować treningi jako FIT lub CSV."],
     ["Czy działa ze Stravą lub Garmin Connect?", "Tak. Aplikacja na zegarek Garmin zapisuje bezpośrednio w Garmin Connect, a ErgBeat eksportuje pliki FIT do Stravy, Garmin Connect i intervals.icu."],
     ["Czy działa z wyłączonym ekranem?", "Tak. Trening trwa dalej z wyłączonym ekranem, z powiadomieniem na ekranie blokady."],
+    ["Czy mogę ustawić cel na grudzień, jak w Holiday Challenge?", "Tak. W zakładce Postępy ustaw cel na okres: metry i daty, np. 100 000 m od 26 listopada do 24 grudnia. ErgBeat pokazuje, ile jeszcze potrzeba dziennie i czy wyprzedzasz plan, a postęp możesz udostępnić jako obraz. Działa z każdym ergometrem. Sam Concept2 Holiday Challenge liczy metry w Concept2 Logbook wykonane na sprzęcie Concept2."],
     ["Jakie języki?", "Angielski, chorwacki, niemiecki, hiszpański, francuski, włoski, portugalski, polski i niderlandzki."],
     ["Znalazłem błąd albo mam pomysł.", "Użyj <i>Wyślij opinię</i> w aplikacji lub napisz na <a href=\"mailto:jaan.dsgn@gmail.com\">jaan.dsgn@gmail.com</a>."]
   ],
