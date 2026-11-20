@@ -45,15 +45,20 @@
 
 <main>
 <div class="hero">
+  <svg class="ribbon" aria-hidden="true" viewBox="0 0 1440 600" preserveAspectRatio="none"><path d="M-80 520 C 300 260, 620 700, 960 400 S 1360 120, 1520 260"/></svg>
   <div class="wrap">
     <div class="hero-copy">
       <p class="label">{{ t.hero_label }}</p>
-      <h1>{{ t.hero_h1 }}</h1>
+      <h1>{{ t.hero_shout }}</h1>
+      <p class="hero-sub">{{ t.hero_h1 }}</p>
       <p class="lede">{{ t.hero_lede }}</p>
       <div class="cta">
         <a class="btn btn-volt" href="{{ play_url }}">{{ t.cta_play }}</a>
         <a class="btn btn-ghost" href="#how">{{ t.cta_how }}</a>
       </div>
+      <ul class="chips">
+        <li>Material You</li><li>{{ t.chip_garmin }}</li><li class="soon">{{ t.chip_soon }}</li><li>{{ t.chip_langs }}</li><li>{{ t.chip_noacc }}</li>
+      </ul>
       <div class="notes">
         <div class="tester"><span class="dot" aria-hidden="true"></span><p>{{ t.play_note }}</p></div>
         <a class="tester tester-link" href="{{ ciq_url }}"><span class="dot" aria-hidden="true"></span><p>{{ t.garmin_note }} <span aria-hidden="true">→</span></p></a>
@@ -61,6 +66,7 @@
     </div>
     <div class="hero-visual">
       <div class="phone"><img src="{{ root }}assets/img/{{ img.live }}" width="720" height="1281" alt="{{ t.alt_live }}" fetchpriority="high"></div>
+      <div class="watch hero-watch"><img src="{{ root }}assets/img/watch-interval.webp" width="360" height="360" alt="{{ t.alt_watch1 }}"></div>
     </div>
   </div>
 </div>
@@ -137,6 +143,20 @@
   </div>
 </section>
 
+<section id="themes" class="band">
+  <svg class="ribbon" aria-hidden="true" viewBox="0 0 1440 600" preserveAspectRatio="none"><path d="M-80 520 C 300 260, 620 700, 960 400 S 1360 120, 1520 260"/></svg>
+  <div class="wrap split">
+    <div>
+      <div class="head"><p class="label">{{ t.themes_label }}</p><h2>{{ t.themes_h2 }}</h2>
+        <p>{{ t.themes_p }}</p></div>
+    </div>
+    <div class="pair">
+      <div class="phone"><img src="{{ root }}assets/img/live-light.webp" width="720" height="1281" alt="{{ t.alt_light }}" loading="lazy"></div>
+      <div class="phone"><img src="{{ root }}assets/img/live-dark.webp" width="720" height="1281" alt="{{ t.alt_dark }}" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
 <section id="garmin">
   <div class="wrap split">
     <div>
@@ -148,6 +168,16 @@
     <div class="watches">
       <div class="watch"><img src="{{ root }}assets/img/watch-interval.webp" width="360" height="360" alt="{{ t.alt_watch1 }}" loading="lazy"></div>
       <div class="watch"><img src="{{ root }}assets/img/watch-summary.webp" width="360" height="360" alt="{{ t.alt_watch2 }}" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
+<section id="logbook">
+  <div class="wrap">
+    <div class="sooncard">
+      <p class="label">{{ t.soon_label }}</p>
+      <h2>{{ t.soon_h2 }}</h2>
+      <p>{{ t.soon_p }}</p>
     </div>
   </div>
 </section>
@@ -202,6 +232,7 @@
 
 <section class="closing">
   <div class="wrap">
+    <p class="shout" aria-hidden="true">{{ t.hero_shout }}</p>
     <h2>{{ t.closing_h2 }}</h2>
     <div class="cta">
       <a class="btn btn-volt" href="{{ play_url }}">{{ t.cta_play }}</a>

@@ -245,3 +245,35 @@ footer a{color:var(--fg)}
 .models b,.head p b{color:var(--fg)}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 .sr:focus{position:fixed;left:max(16px,env(safe-area-inset-left,0px));top:calc(env(safe-area-inset-top,0px) + 12px);width:auto;height:auto;clip:auto;z-index:40;background:var(--volt);color:var(--on-volt);padding:10px 16px;border-radius:999px;font-weight:700}
+
+/* ---- Volt line (November 2026): a volt ribbon behind the hero and bands, uppercase display type ---- */
+.ribbon{position:absolute;inset:auto 0 0 0;width:100%;height:78%;pointer-events:none;z-index:0}
+.ribbon path{fill:none;stroke:var(--volt);stroke-width:120;stroke-linecap:round;vector-effect:none}
+.hero{position:relative}
+.hero .wrap{position:relative;z-index:1}
+.hero h1{font-size:clamp(52px,9.4vw,124px);line-height:.9;letter-spacing:-.03em;text-transform:uppercase;overflow-wrap:anywhere}
+.hero-sub{font-size:clamp(22px,2.6vw,30px);font-weight:700;line-height:1.15;letter-spacing:-.01em}
+.hero-sub em{font-style:normal;color:var(--volt-ink)}
+.chips{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.chips li{padding:7px 14px;border-radius:999px;background:var(--surface);border:1px solid var(--line);font-size:14px;font-weight:500;color:var(--fg)}
+.chips li.soon{background:var(--volt);border-color:var(--volt);color:var(--on-volt)}
+.hero-visual .phone{transform:rotate(5deg);transform-origin:50% 100%}
+.hero-watch{position:absolute;left:-18%;bottom:9%;width:46%;transform:rotate(-6deg)}
+.head h2,.pacer h2,.closing h2{text-transform:uppercase;letter-spacing:-.025em;overflow-wrap:anywhere;hyphens:auto}
+.band{position:relative;overflow:hidden}
+.band .wrap{position:relative;z-index:1}
+.band .ribbon{height:60%}
+.pair{display:flex;gap:18px;justify-content:center;align-items:flex-start}
+.pair .phone{width:min(240px,44%);border-radius:34px;padding:8px}
+.pair .phone img{border-radius:26px}
+.pair .phone:first-child{transform:rotate(-6deg);margin-top:36px}
+.pair .phone:last-child{transform:rotate(5deg)}
+.sooncard{background:var(--volt);color:var(--on-volt);border-radius:28px;padding:clamp(28px,5vw,56px);display:flex;flex-direction:column;gap:14px}
+.sooncard .label{color:var(--on-volt)}
+.sooncard h2{font-size:clamp(32px,5.4vw,64px);text-transform:uppercase;letter-spacing:-.025em;overflow-wrap:anywhere}
+.sooncard p{font-size:18px;max-width:38em}
+.closing{position:relative;overflow:hidden}
+.closing .shout{font-size:clamp(44px,11vw,150px);font-weight:700;line-height:.9;letter-spacing:-.03em;text-transform:uppercase;color:var(--volt-ink);margin-bottom:28px;overflow-wrap:anywhere}
+@media (max-width:860px){.hero-watch{left:-4%;width:38%}.ribbon path{stroke-width:150}}
+.closing .shout{flex-basis:100%}
+@media (max-width:900px){.hero .ribbon{height:520px}.band .ribbon{height:300px}.hero-visual .phone{transform:rotate(3deg)}}
